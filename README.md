@@ -1,3 +1,6 @@
+> **Warning**
+> **DEPRECATED**: thanks to [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) this can be archived in favor of [cristianofromagio/qrcode-tab-extension](https://github.com/cristianofromagio/qrcode-tab-extension) (previously `qrcode-tab-firefox`).
+
 # qrcode-tab-chrome
 Chrome extension that show current tab url as QR code image
 
